@@ -4,3 +4,4 @@
 # IDEA
 .idea/
 .gitignore
+/gorilla-mux/main
